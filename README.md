@@ -1,7 +1,7 @@
-![Mapbox GL](./img/banner.png)
-
 # WORKSHOP Mapbox Pandas
 The goal of this workshop is to display geographic data on a map using Mapbox GL.
+
+![Mapbox GL banner](./img/banner.png)
 
 ## Overview
 
