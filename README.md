@@ -51,6 +51,9 @@ For this workshop you will require:
 ## Workshop
 
 ### Data visualization with MapBox GL
+In the first of this workshop we're gonna find out the basics of Mapbox GL.
+We'll display a map in our navigator thanks to Mapbox GL,
+and then we will play a bit with it by marking locations on the map.
 
 #### Display your first map
 
