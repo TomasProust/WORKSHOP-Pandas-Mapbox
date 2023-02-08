@@ -1,32 +1,48 @@
 # WORKSHOP Mapbox Pandas
 The goal of this workshop is to display geographic data on a map using Mapbox GL.
 
-## Table of Contents
+## Overview
 
-1. Prerequisites
-2. Data visualization with Mapbox GL
-    1. Display your first map
-    2. Mark a location in your map
-    3. Resolve the performance problem
-3. Display your own data
-    1. Discover the open data movement and choose you own dataset
-    2. Clean your dataset
-    3. Display your dataset with Mapbox GL
+### Introduction
+
+### Table of Contents
+
+- [Overview](#overview)
+    - [Introduction](#introduction)
+    - [Table of Contents](#table-of-contents)
+    - [Presences](#presences)
+- [Prerequisites](#prerequisites)
+- [Workshop](#workshop)
+    1. [Data visualization with Mapbox GL](#data-visualization-with-mapbox-gl)
+        1. [Display your first map](#display-your-first-map)
+        2. [Mark a location in your map](#mark-a-location-in-your-map)
+        3. [Resolve the performance problem](#resolve-the-performance-problem)
+    2. [Display your own data](#display-your-own-data)
+        1. [Discover the open data movement and choose you own dataset](#discover-the-open-data-movement-and-choose-you-own-dataset)
+        2. [Clean your dataset](#clean-your-dataset)
+        3. [Display your dataset with Mapbox GL](#display-your-dataset-with-mapbox-gl)
+- More
+
+### Presences
 
 ## Prerequisites
 
-## Data visualization with MapBox GL
+## Workshop
 
-### Display your first map
+### Data visualization with MapBox GL
 
-### Mark a location in your map
+#### Display your first map
 
-### Resolve the performance problem
+#### Mark a location in your map
 
-## Display your own data
+#### Resolve the performance problem
 
-### Discover the open data movement and choose you own dataset
+### Display your own data
 
-### Clean your dataset
+#### Discover the open data movement and choose you own dataset
 
-### Display your dataset with Mapbox GL
+#### Clean your dataset
+
+#### Display your dataset with Mapbox GL
+
+## More
