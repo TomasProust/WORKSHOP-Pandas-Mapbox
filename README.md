@@ -23,7 +23,7 @@ The goal of this workshop is to display geographic data on a map using Mapbox GL
         1. [Discover the open data movement and choose you own dataset](#discover-the-open-data-movement-and-choose-you-own-dataset)
         2. [Clean your dataset](#clean-your-dataset)
         3. [Display your dataset with Mapbox GL](#display-your-dataset-with-mapbox-gl)
-- More
+- [Discover More](#discover-more)
 
 ### Presences
 
@@ -47,4 +47,4 @@ The goal of this workshop is to display geographic data on a map using Mapbox GL
 
 #### Display your dataset with Mapbox GL
 
-## More
+## Discover More
