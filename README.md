@@ -1,11 +1,13 @@
 # WORKSHOP Mapbox Pandas
-The goal of this workshop is to display geographic data on a map using Mapbox GL.
+A workshop about Mapbox GL to discover the world data visualization.
 
 ![Mapbox GL banner](./img/banner.png)
 
 ## Overview
 
 ### Introduction
+
+BLA-BLA-BLA...
 
 ### Table of Contents
 
@@ -26,8 +28,25 @@ The goal of this workshop is to display geographic data on a map using Mapbox GL
 - [Discover More](#discover-more)
 
 ### Presences
+Fork the repository (set yourself as the owner) and commit with your name to be marked present. example: [PRESENCE] : Tomas PROUST
 
 ## Prerequisites
+
+For this workshop you will require:
+- Python3 (>= 3.7)
+    you can install it with the package manager of your choice:
+    ```bash
+    # Fedora
+    sudo dnf install python3
+    # Ubuntu and Debian based Distro
+    sudo apt-get install python3
+    # Arch Linux
+    sudo pacman -Sy python-pip
+    ```
+- Python Pandas library:
+    ```bash
+    pip install pandas
+    ```
 
 ## Workshop
 
