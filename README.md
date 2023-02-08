@@ -1,4 +1,4 @@
-# WORKSHOP Mapbox Pandas
+# WORKSHOP - Mapbox GL & Pandas
 A workshop about Mapbox GL to discover the world data visualization.
 
 ![Mapbox GL banner](./img/banner.png)
