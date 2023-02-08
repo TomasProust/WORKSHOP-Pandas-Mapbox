@@ -18,11 +18,11 @@
  3. Create a Python binary file (.py).
  4. Download Pandas with `pip install pandas` in your terminal or at the begining of your python binary.
  5. In your .py binary:
-  a. Import the pandas library into your runnable Python file with `import pandas as pd`.
-  b. Read your .csv dataset and save it in a pandas dataframe.
-  c. Verify that the coordinates decimals are separated by "." and not by ",".
-  d. Use pandas to create a dataframe that only has the data you want to display on the map.
-  e. Export your dataframe to a .csv
+    1. Import the pandas library into your runnable Python file with `import pandas as pd`.
+    2. Read your .csv dataset and save it in a pandas dataframe.
+    3. Verify that the coordinates decimals are separated by "." and not by ",".
+    4. Use pandas to create a dataframe that only has the data you want to display on the map.
+    5. Export your dataframe to a .csv
  
  ### 3. Uploading your dataset to mapbox as a tileset
  1. Create an account on Mapbox
