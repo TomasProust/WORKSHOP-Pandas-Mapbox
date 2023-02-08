@@ -118,5 +118,6 @@ Warning: - Some .csv have different column separators ("," or ";"), you can open
 3. Change the tileset called in Part 1 to yours
 4. Display your dataset.
 
-
 ## Discover More
+If you enjoyed this workshop you can see for more [use cases](https://docs.mapbox.com/mapbox-gl-js/example/) of mapbox GL (our favorite is [this one](https://docs.mapbox.com/mapbox-gl-js/example/dancing-buildings/) which control the city building over the sound of your mic).  
+You can also check the [MapLibre Project](https://maplibre.org/), an open-source fork of the Mapbox GL library.
