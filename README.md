@@ -8,7 +8,7 @@ A workshop about Mapbox GL to discover the world data visualization.
 ### Introduction
 
 The purpose of this workshop is to learn how to display markers on a map using Mapbox GL. You will also learn the basics of data cleaning with Python and the Pandas library.
-Signing up on MapBox GL is only required for the second part of this workshop. An account is free but requires your credit card information because they charge people depending on the amount of times the map is loaded. You won't be charged anything for personal use unless you view your maps thousands of times.
+Signing up on MapBox GL is not required until the "Display your own data" part of this workshop. An account is free but requires your credit card information because they charge people depending on the amount of times the map is loaded. You won't be charged anything for personal use unless you view your maps thousands of times.
 
 ### Table of Contents
 
